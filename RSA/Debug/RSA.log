@@ -1,4 +1,0 @@
-﻿  RSA.cpp
-d:\visualstudio\rsa\rsa\rsa.cpp(69): warning C4018: '<': signed/unsigned mismatch
-d:\visualstudio\rsa\rsa\rsa.cpp(75): warning C4018: '<': signed/unsigned mismatch
-  RSA.vcxproj -> D:\VisualStudio\RSA\Debug\RSA.exe
